@@ -31,6 +31,34 @@ Organização de pastas por responsabilidade
 
 Código limpo e escalável
 
+
+## 🎯 Objetivo do Projeto
+Este projeto tem como objetivo servir como base sólida para aplicações frontend modernas, demonstrando:
+
+Integração eficiente entre React e TypeScript
+
+Uso adequado de Hooks
+
+Estrutura escalável para crescimento do projeto
+
+Boas práticas de estilização com CSS-in-JS
+
+
+## 📌 Diferenciais
+
+Estrutura otimizada com Vite para inicialização rápida
+
+Tipagem que reduz erros em tempo de desenvolvimento
+
+Estilos isolados por componente
+
+Código preparado para manutenção e expansão
+
+
+
+
+
+
 ```js
 export default defineConfig([
   globalIgnores(['dist']),
