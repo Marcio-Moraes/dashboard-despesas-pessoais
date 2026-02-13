@@ -1,19 +1,35 @@
-# React + TypeScript + Vite
+# 🚀 React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido utilizando React, TypeScript e Vite, com foco em performance, organização de código e boas práticas modernas de desenvolvimento frontend.
 
-Currently, two official plugins are available:
+A aplicação faz uso de React Hooks, como useState e useEffect, para gerenciamento de estado e controle de ciclo de vida dos componentes, além de estilização dinâmica e componentizada com styled-components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
 
-## React Compiler
+⚛️ React – Biblioteca para construção de interfaces modernas e reativas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔷 TypeScript – Superset do JavaScript com tipagem estática
 
-## Expanding the ESLint configuration
+⚡ Vite – Build tool extremamente rápida e leve
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+💅 styled-components – Estilização baseada em componentes com suporte a props dinâmicas
+
+🎣 Hooks (useState & useEffect) – Gerenciamento de estado e efeitos colaterais
+
+## 📚 Conceitos Aplicados
+Componentização reutilizável
+
+Tipagem forte com interfaces e types
+
+Gerenciamento de estado com useState
+
+Controle de efeitos colaterais com useEffect
+
+Estilização dinâmica com styled-components
+
+Organização de pastas por responsabilidade
+
+Código limpo e escalável
 
 ```js
 export default defineConfig([
